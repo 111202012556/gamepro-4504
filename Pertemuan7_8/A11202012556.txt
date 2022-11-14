@@ -1,0 +1,8 @@
+1. Tidak
+karena pada Transitions tidak ada transisi "Idle" ke "Run"
+
+2. Tidak
+Karena pada Transitions tidak ada transisi "Jumping" ke "Crouch"
+
+3. Tidak
+State CrouchingWalk hanya memiliki transisi "CrouchingWalk" ke "Crouch"
